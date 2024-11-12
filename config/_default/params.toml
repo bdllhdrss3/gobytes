@@ -1,0 +1,99 @@
+# SEO keywords and description for your site.
+keywords = "golang tutorials, learn golang, golang basics, golang web development, hugo golang site, golang projects, golang for beginners, golang site, hugo golang tutorial, golang backend development, golang blog, golang blog with hugo, build golang website with hugo, golang lessons, golang programming, go lessons, go tutorials, golang resources, golang coding, golang exercises, golang concepts"
+title = "GoBytes"
+summary = "Learn Go in Bits"
+subtitle = "Learn Go in Bits"
+
+# dir name of your blog content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "post"
+
+# Show table of contents at the top of your posts (defaults to false)
+# Alternatively, add this param to post front matter for specific posts
+toc = true
+
+showReadingTime = true
+
+# use structure json-ld for articles
+jsonLD = false
+
+showAuthor = false
+
+[author]
+  name = "Abdallah Idriss Lutaaya"
+  email = "bdllhltydrss@gmail.com"
+
+[search]
+  summaryInclude = 180 # show only part of content in search result.
+  minMatchCharLength = 2 # https://www.fusejs.io/api/options.html#minmatchcharlength
+  threshold = 0.3 # https://www.fusejs.io/api/options.html#threshold
+
+[header]
+  logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiMpEoh5i4CJDuJe-FY6bLxigBjAGYD3ORA&s"
+  sticky = true
+   bgColor = "blue-500" 
+
+[footer]
+  since = 2024
+  poweredby = false
+
+[taxonomies.icons]
+  categories = "category-2"
+  tags = "hash"
+
+# giscus is comments system powered by GitHub Discussions
+# generate configurations from https://giscus.app/
+[giscus]
+  enabled = false
+  repo = "your-repo-name"
+  repoID = "your-repo-id"
+  category = "your-category"
+  categoryID = "your-category-id"
+  mapping = "pathname"
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  lang = "en"
+
+[social_media]
+  [[social_media.items]]
+    enabled = false
+    title = 'Facebook'
+    icon = 'brand-facebook'
+    link = 'https://www.facebook.com/'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'Twitter'
+    icon = 'brand-x'
+    link = 'https://twitter.com/__PurPleFoX__'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'Instagram'
+    icon = 'brand-instagram'
+    link = 'https://www.instagram.com/'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'LinkedIn'
+    icon = 'brand-linkedin'
+    link = 'https://www.linkedin.com/'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/tomowang'
+
+[pwa]
+  enabled = true
+  icon = "logo.png" # should be in assets
+  icon_sizes = [192, 512]
+
+  # will be used as the manifest.json file and merge the default one
+  # https://developer.mozilla.org/en-US/docs/Web/Manifest
+  # https://web.dev/add-manifest/
+  [pwa.manifest]
+  description = "Learn Go in Bits"

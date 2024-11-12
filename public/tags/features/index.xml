@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Features on Go Bytes</title><link>//localhost:1313/tags/features/</link><description>Recent content in Features on Go Bytes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 11:27:38 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/features/index.xml" rel="self" type="application/rss+xml"/><item><title>Start Here</title><link>//localhost:1313/start-here/</link><pubDate>Thu, 15 Oct 2020 20:58:53 +0200</pubDate><guid>//localhost:1313/start-here/</guid><description>&lt;p>&lt;strong>Arberia Theme&lt;/strong> is a theme for the Hugo for tech blogger with 4 single post layout and 2 list layout!&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Responsive layout&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>3 Single post view:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>Post view with sidebar&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Post view without sidebar&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Post view with cover image&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Video post view&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>2 List post view:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>List posts&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Grid posts&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Landing page&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>List Cathegory/Tag view&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Icon colored submenu&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Table of Contents&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Search&lt;/strong> supported by &lt;a href="flexbox.js">Flexbox.js&lt;/a>&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://analytics.google.com/analytics">Google Analytics&lt;/a>&lt;/strong> supported&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://disqus.com">Disqus&lt;/a>&lt;/strong> comment system&lt;/li>
+&lt;li>Social-Media Share buttons on posts&lt;/li>
+&lt;li>Multilingual support. (not yet implemented!)&lt;/li>
+&lt;li>Uses Hugo&amp;rsquo;s asset generator with pipelining, fingerprinting, bundling and minification by default (No webpack, nodejs and other dependencies are required to edit the theme.&lt;/li>
+&lt;/ul>
+&lt;h2 id="installationupdating">Installation/updating&lt;/h2>
+&lt;p>&lt;em>Before starting, please be sure that you have
+&lt;a href="https://gohugo.io/getting-started/quick-start/#step-1-install-hugo">installed Hugo&lt;/a> and
+&lt;a href="https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site">created a new site&lt;/a>. After that, you are ready to install &lt;strong>Arberia&lt;/strong>.&lt;/em>&lt;/p></description></item><item><title>Arberia Features</title><link>//localhost:1313/arberia-features/</link><pubDate>Wed, 27 Jul 2022 11:27:38 +0200</pubDate><guid>//localhost:1313/arberia-features/</guid><description>&lt;h3 id="intro">Intro&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>We&amp;rsquo;ll be using &lt;code>toml&lt;/code> format for all examples down below, I recommend using &lt;code>toml&lt;/code> as it is easier to read.&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You can find any &lt;a href="https://www.google.com/search?q=yml+to+toml">YML to TOML&lt;/a> converters if necessary.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="assets-jscss">Assets (js/css)&lt;/h3>
+&lt;p>The following is enabled by default&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/minification/">minification&lt;/a> - makes the assets size smallest as possible.&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/bundling/">bundling&lt;/a> - bundles all the styles in one single asset&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/fingerprint/">fingerprint/intergity&lt;/a> check.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="search-page">Search Page&lt;/h3>
+&lt;p>PaperMod uses &lt;a href="https://github.com/nextapps-de/flexsearch">flexsearch.js&lt;/a> for search functionality&lt;/p>
+&lt;p>Add the following to site config, &lt;code>config.toml&lt;/code>&lt;/p></description></item></channel></rss>

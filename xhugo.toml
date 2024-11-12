@@ -1,0 +1,46 @@
+baseURL = "https://example.com/"
+keywords = "golang tutorials, learn golang, golang basics, golang web development, hugo golang site, golang projects, golang for beginners, golang site, hugo golang tutorial, golang backend development, golang blog, golang blog with hugo, build golang website with hugo, golang lessons, golang programming, go lessons, go tutorials, golang resources, golang coding, golang exercises, golang concepts"
+title = "GoBytes"
+summary = "Learn Go in Bits"
+subtitle = "Learn Go in Bits"
+author = "GoBytes"
+copyright = "GoBytes"
+paginate = 10
+languageCode = "en"
+theme = "tailwind"
+IsDevelopment = false
+
+[markup]
+  _merge = "deep"
+
+[params]
+  contentTypeName = "homepage"
+
+  [params.header]
+    logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiMpEoh5i4CJDuJe-FY6bLxigBjAGYD3ORA&s"
+    sticky = true
+
+  [params.footer]
+    since = 2024
+    poweredby = false
+
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    pageRef = "/post"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

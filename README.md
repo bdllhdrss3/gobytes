@@ -7,8 +7,6 @@
 - [About](#about)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -19,7 +17,6 @@ GoBytes is a project created to share practical knowledge, code snippets, and tu
 - **In-Depth Go Tutorials**: From basics to advanced topics.
 - **Real-World Examples**: Practical code examples and project ideas.
 - **Tips and Tricks**: Boost your productivity with Go.
-- **Community-Driven**: Open for contributions, questions, and discussions.
 
 ## Getting Started
 
@@ -38,31 +35,8 @@ To clone and run GoBytes locally:
     ```bash
     hugo server -D
     ```
-   
    Visit `http://localhost:1313` in your browser to view the blog locally.
 
-## Contributing
 
-We welcome contributions! Here's how you can help:
-
-1. Fork this repository.
-2. Create a new branch with a descriptive name.
-3. Commit your changes and push the branch.
-4. Open a pull request with details of your changes.
-
-Please read the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Connect with Us
-
-Follow the project and stay updated:
-
-- **Twitter**: [@GoBytesBlog](https://twitter.com/GoBytesBlog)
-- **Email**: gobytes@example.com
-
----
 
 Happy coding with Go! 🐹

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arberia on Go Bytes</title><link>//localhost:1313/categories/arberia/</link><description>Recent content in Arberia on Go Bytes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 12:07:11 +0200</lastBuildDate><atom:link href="//localhost:1313/categories/arberia/index.xml" rel="self" type="application/rss+xml"/><item><title>Post with sidebar</title><link>//localhost:1313/post-with-sidebar/</link><pubDate>Thu, 15 Oct 2020 20:58:53 +0200</pubDate><guid>//localhost:1313/post-with-sidebar/</guid><description>&lt;h2 id="what-is-lorem-ipsum">What is Lorem Ipsum?&lt;/h2>
+&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Why do we use it?&lt;/p></description></item><item><title>Start Here</title><link>//localhost:1313/start-here/</link><pubDate>Thu, 15 Oct 2020 20:58:53 +0200</pubDate><guid>//localhost:1313/start-here/</guid><description>&lt;p>&lt;strong>Arberia Theme&lt;/strong> is a theme for the Hugo for tech blogger with 4 single post layout and 2 list layout!&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Responsive layout&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>3 Single post view:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>Post view with sidebar&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Post view without sidebar&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Post view with cover image&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Video post view&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>2 List post view:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>List posts&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Grid posts&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Landing page&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>List Cathegory/Tag view&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Icon colored submenu&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Table of Contents&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Search&lt;/strong> supported by &lt;a href="flexbox.js">Flexbox.js&lt;/a>&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://analytics.google.com/analytics">Google Analytics&lt;/a>&lt;/strong> supported&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://disqus.com">Disqus&lt;/a>&lt;/strong> comment system&lt;/li>
+&lt;li>Social-Media Share buttons on posts&lt;/li>
+&lt;li>Multilingual support. (not yet implemented!)&lt;/li>
+&lt;li>Uses Hugo&amp;rsquo;s asset generator with pipelining, fingerprinting, bundling and minification by default (No webpack, nodejs and other dependencies are required to edit the theme.&lt;/li>
+&lt;/ul>
+&lt;h2 id="installationupdating">Installation/updating&lt;/h2>
+&lt;p>&lt;em>Before starting, please be sure that you have
+&lt;a href="https://gohugo.io/getting-started/quick-start/#step-1-install-hugo">installed Hugo&lt;/a> and
+&lt;a href="https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site">created a new site&lt;/a>. After that, you are ready to install &lt;strong>Arberia&lt;/strong>.&lt;/em>&lt;/p></description></item><item><title>Arberia FAQs</title><link>//localhost:1313/arberia-faqs/</link><pubDate>Wed, 27 Jul 2022 12:07:11 +0200</pubDate><guid>//localhost:1313/arberia-faqs/</guid><description/></item></channel></rss>

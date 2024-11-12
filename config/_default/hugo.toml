@@ -1,0 +1,79 @@
+baseURL = "https://example.com/"
+keywords = "golang tutorials, learn golang, golang basics, golang web development, hugo golang site, golang projects, golang for beginners, golang site, hugo golang tutorial, golang backend development, golang blog, golang blog with hugo, build golang website with hugo, golang lessons, golang programming, go lessons, go tutorials, golang resources, golang coding, golang exercises, golang concepts"
+title = "GoBytes"
+author = "Abdallah Idriss Lutaaya"
+copyright = "GoBytes"
+summary = "Learn Go in Bits"
+subtitle = "Learn Go in Bits"
+languageCode = 'en'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+enableInlineShortcodes = true
+
+
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+theme = "tailwind"
+IsDevelopment = false
+
+[markup]
+  _merge = "deep"
+[markup.highlight]
+  # lineNos = true
+  noClasses = false
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions]
+    [markup.goldmark.extensions.cjk]
+      enable = true
+      eastAsianLineBreaks = true
+      escapedSpace = true
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.120.0"
+
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    pageRef = "/post"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

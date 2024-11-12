@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Go Bytes</title><link>//localhost:1313/posts/</link><description>Recent content in Posts on Go Bytes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 12:07:11 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Video Post View</title><link>//localhost:1313/video-post-view/</link><pubDate>Sat, 09 Jul 2022 23:08:01 +0200</pubDate><guid>//localhost:1313/video-post-view/</guid><description>&lt;p>This is a &lt;strong>video post view&lt;/strong> example.&lt;/p>
+&lt;p>Do you, like me, find yourself stuck at home these days and are looking to learn something new? Then come with me to learn 3D modeling with Solidworks.
+While you learn 3D modeling, I learn how to record and edit small video tutorials. As you can see, it is still an equal exchange. To record the screen I am using OBS and to edit the videos I am familiarazing with DaVinci Resolve.&lt;/p></description></item><item><title>Video Post View</title><link>//localhost:1313/video-post-view/</link><pubDate>Sat, 09 Jul 2022 23:08:01 +0200</pubDate><guid>//localhost:1313/video-post-view/</guid><description>&lt;p>This is a &lt;strong>video post view&lt;/strong> example.&lt;/p>
+&lt;p>Do you, like me, find yourself stuck at home these days and are looking to learn something new? Then come with me to learn 3D modeling with Solidworks.
+While you learn 3D modeling, I learn how to record and edit small video tutorials. As you can see, it is still an equal exchange. To record the screen I am using OBS and to edit the videos I am familiarazing with DaVinci Resolve.&lt;/p></description></item><item><title>Post without sidebar</title><link>//localhost:1313/post-without-sidebar/</link><pubDate>Tue, 26 Apr 2022 19:05:23 +0000</pubDate><guid>//localhost:1313/post-without-sidebar/</guid><description>&lt;h2 id="what-is-lorem-ipsum">What is Lorem Ipsum?&lt;/h2>
+&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Why do we use it?&lt;/p></description></item><item><title>Post with sidebar</title><link>//localhost:1313/post-with-sidebar/</link><pubDate>Thu, 15 Oct 2020 20:58:53 +0200</pubDate><guid>//localhost:1313/post-with-sidebar/</guid><description>&lt;h2 id="what-is-lorem-ipsum">What is Lorem Ipsum?&lt;/h2>
+&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Why do we use it?&lt;/p></description></item><item><title>Start Here</title><link>//localhost:1313/start-here/</link><pubDate>Thu, 15 Oct 2020 20:58:53 +0200</pubDate><guid>//localhost:1313/start-here/</guid><description>&lt;p>&lt;strong>Arberia Theme&lt;/strong> is a theme for the Hugo for tech blogger with 4 single post layout and 2 list layout!&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Responsive layout&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>3 Single post view:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>Post view with sidebar&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Post view without sidebar&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Post view with cover image&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Video post view&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>2 List post view:&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>List posts&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Grid posts&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Landing page&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>List Cathegory/Tag view&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Icon colored submenu&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Table of Contents&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Search&lt;/strong> supported by &lt;a href="flexbox.js">Flexbox.js&lt;/a>&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://analytics.google.com/analytics">Google Analytics&lt;/a>&lt;/strong> supported&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://disqus.com">Disqus&lt;/a>&lt;/strong> comment system&lt;/li>
+&lt;li>Social-Media Share buttons on posts&lt;/li>
+&lt;li>Multilingual support. (not yet implemented!)&lt;/li>
+&lt;li>Uses Hugo&amp;rsquo;s asset generator with pipelining, fingerprinting, bundling and minification by default (No webpack, nodejs and other dependencies are required to edit the theme.&lt;/li>
+&lt;/ul>
+&lt;h2 id="installationupdating">Installation/updating&lt;/h2>
+&lt;p>&lt;em>Before starting, please be sure that you have
+&lt;a href="https://gohugo.io/getting-started/quick-start/#step-1-install-hugo">installed Hugo&lt;/a> and
+&lt;a href="https://gohugo.io/getting-started/quick-start/#step-2-create-a-new-site">created a new site&lt;/a>. After that, you are ready to install &lt;strong>Arberia&lt;/strong>.&lt;/em>&lt;/p></description></item><item><title>Markdown Syntax</title><link>//localhost:1313/markdown-syntax/</link><pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><guid>//localhost:1313/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.&lt;/p></description></item><item><title>All Video Tutorial</title><link>//localhost:1313/all-video-tutorial/</link><pubDate>Sun, 17 Jul 2022 22:20:48 +0200</pubDate><guid>//localhost:1313/all-video-tutorial/</guid><description>&lt;h2 id="tutorial-solidworks">Tutorial Solidworks&lt;/h2>
+&lt;p>Raccolta di mini tutorial su Solidworks 2020 che tocca tutti i principali ambienti di Solidworks: Parte, Assiemi, Disegno&lt;/p>
+&lt;ul>
+&lt;li>Solidworks: Modelliamo un supporto&lt;/li>
+&lt;li>Solidworks: Modelliamo un supporto a guscio&lt;/li>
+&lt;li>Solidworks: Come creare una assieme&lt;/li>
+&lt;li>Solidworks: Messa in tavola guscio inferiore&lt;/li>
+&lt;li>Solidworks: Messa in tavola del supporto superiore&lt;/li>
+&lt;li>Solidworks: Modelliamo una Biella&lt;/li>
+&lt;li>SOLIDWORKS BONUS TUTORIAL: Modelliamo il Cappello di Biella&lt;/li>
+&lt;li>Solidworks: Modelliamo un Pistone&lt;/li>
+&lt;li>Solidworks: Progettazione un albero motore in Solidworks&lt;/li>
+&lt;li>Solidworks Motion: Assieme e studio di movimento di un motore monocilindrico&lt;/li>
+&lt;li>Solidworks: Vite con filettatura reale&lt;/li>
+&lt;li>Solidworks: Personalizziamo l’interfaccia&lt;/li>
+&lt;li>Solidworks Q&amp;amp;A: Come impostare il vincolo angolo limite&lt;/li>
+&lt;/ul>
+&lt;h2 id="tutorial-fusion-360">Tutorial Fusion 360&lt;/h2>
+&lt;ul>
+&lt;li>Fusion 360: Supporto staffa&lt;/li>
+&lt;li>Fusion 360: Modelliamo una biella&lt;/li>
+&lt;li>Fusion 360: Modelliamo una biella a forcella&lt;/li>
+&lt;li>Fusion 360: Boccola flangiata&lt;/li>
+&lt;li>Fusion 360: Modelliamo un giunto&lt;/li>
+&lt;li>Fusion 360: Disegniamo una staffa&lt;/li>
+&lt;li>Fusion 360: Portautensili – Come realizzare un assieme&lt;/li>
+&lt;li>Fusion 360: Un esercizio di rinforzo&lt;/li>
+&lt;li>Fusion 360: Come inserire un immagine di riferimento (canvas modelling)&lt;/li>
+&lt;li>Fusion 360: Boccola filettata&lt;/li>
+&lt;li>Fusion 360: Modelliamo un vasetto di burro di noccioline&lt;/li>
+&lt;li>Fusion 360: Messa in tavola&lt;/li>
+&lt;li>Fusion 360: Il comando extrude&lt;/li>
+&lt;li>Fusion 360: Filettatura modeled e/o cosmetiche&lt;/li>
+&lt;li>Fusion 360: Allenati con fusion 360&lt;/li>
+&lt;li>Fusion 360: Boccola flangiata&lt;/li>
+&lt;li>Fusion 360: Portapillola&lt;/li>
+&lt;/ul>
+&lt;h2 id="tutorial-autodesk-inventor">Tutorial Autodesk Inventor&lt;/h2>
+&lt;ul>
+&lt;li>Tutorial Inventor: modelliamo un supporto step-by-step&lt;/li>
+&lt;li>Tutorial Inventor: modelliamo un giunto step-by-step&lt;/li>
+&lt;/ul>
+&lt;h2 id="tutorial-automazione-pneumatica">Tutorial Automazione Pneumatica&lt;/h2>
+&lt;ul>
+&lt;li>Automazione pneumatica: la sequenza A+/B+/A-/B- (senza segnali bloccanti)&lt;/li>
+&lt;/ul>
+&lt;h2 id="visite-centrali-idroelettriche">Visite centrali idroelettriche&lt;/h2>
+&lt;ul>
+&lt;li>Visita alla centrale idroelettrica Mucone (I salto) – Acri (CS)&lt;/li>
+&lt;li>Visita alla centrale idroelettrica di Edolo&lt;/li>
+&lt;li>Visita alla centrale idroelettrica Borno Energia Pulita&lt;/li>
+&lt;/ul>
+&lt;h2 id="visite-centrali-eoliche">Visite centrali eoliche&lt;/h2>
+&lt;ul>
+&lt;li>Visita alla centrale eolica di Tarsia – Cosenza&lt;/li>
+&lt;li>Minieolico Jimp30 di San Cosmo Albanese – Cosenza&lt;/li>
+&lt;/ul>
+&lt;h2 id="progetti-scuola--learning-by-doing">Progetti Scuola – Learning by doing&lt;/h2>
+&lt;ul>
+&lt;li>Un giorno fantastico: l’istallazione della nostra turbina eolica a Lumezzane&lt;/li>
+&lt;li>Il progetto Robot Arm&lt;/li>
+&lt;li>Il progetto Pelton&lt;/li>
+&lt;/ul></description></item><item><title>Arberia FAQs</title><link>//localhost:1313/arberia-faqs/</link><pubDate>Wed, 27 Jul 2022 12:07:11 +0200</pubDate><guid>//localhost:1313/arberia-faqs/</guid><description/></item><item><title>Arberia Features</title><link>//localhost:1313/arberia-features/</link><pubDate>Wed, 27 Jul 2022 11:27:38 +0200</pubDate><guid>//localhost:1313/arberia-features/</guid><description>&lt;h3 id="intro">Intro&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>We&amp;rsquo;ll be using &lt;code>toml&lt;/code> format for all examples down below, I recommend using &lt;code>toml&lt;/code> as it is easier to read.&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You can find any &lt;a href="https://www.google.com/search?q=yml+to+toml">YML to TOML&lt;/a> converters if necessary.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="assets-jscss">Assets (js/css)&lt;/h3>
+&lt;p>The following is enabled by default&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/minification/">minification&lt;/a> - makes the assets size smallest as possible.&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/bundling/">bundling&lt;/a> - bundles all the styles in one single asset&lt;/li>
+&lt;li>&lt;a href="https://gohugo.io/hugo-pipes/fingerprint/">fingerprint/intergity&lt;/a> check.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="search-page">Search Page&lt;/h3>
+&lt;p>PaperMod uses &lt;a href="https://github.com/nextapps-de/flexsearch">flexsearch.js&lt;/a> for search functionality&lt;/p>
+&lt;p>Add the following to site config, &lt;code>config.toml&lt;/code>&lt;/p></description></item><item><title>Arberia Installation | Update</title><link>//localhost:1313/arberia-installation-update/</link><pubDate>Wed, 27 Jul 2022 10:53:18 +0200</pubDate><guid>//localhost:1313/arberia-installation-update/</guid><description>&lt;h2 id="intro">Intro&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>We&amp;rsquo;ll be using &lt;code>yml/yaml&lt;/code> format for all examples down below, I recommend using &lt;code>yml&lt;/code> over &lt;code>toml&lt;/code> as it is easier to read.&lt;/strong>&lt;/li>
+&lt;li>You can find any &lt;a href="https://www.google.com/search?q=yml+to+toml">YML to TOML&lt;/a> converters if necessary.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="guide">Guide&lt;/h2>
+&lt;p>Follow &lt;a href="https://gohugo.io/getting-started/quick-start/">Quick Start&lt;/a> guide to setup 
+
+&lt;img class="in-text" height="14" src="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png" alt=""> and create a new site.&lt;/p>
+&lt;blockquote>
+&lt;p>Note: Use -f to select yml format&lt;/p>
+&lt;p>&lt;code>hugo new site &amp;lt;name of site&amp;gt; -f yml&lt;/code>&lt;/p>
+&lt;/blockquote>
+&lt;p>Make sure you install latest version of &lt;strong>&lt;code>hugo(&amp;gt;=0.101.0)&lt;/code>&lt;/strong>.&lt;/p>
+&lt;p>After you have created a new site, at &lt;a href="https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme">Step 3&lt;/a> follow the steps:&lt;/p></description></item><item><title>Build in Shortcodes</title><link>//localhost:1313/build-in-shortcodes/</link><pubDate>Fri, 22 Jul 2022 08:53:46 +0200</pubDate><guid>//localhost:1313/build-in-shortcodes/</guid><description>&lt;p>&lt;strong>Hugo&lt;/strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.&lt;/p>
+&lt;p>Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.&lt;/p>
+&lt;p>But this happens to be a bad idea. Everyone uses Markdown because it’s pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.&lt;/p></description></item><item><title>Exemple</title><link>//localhost:1313/exemple/</link><pubDate>Thu, 07 Jul 2022 22:08:01 +0200</pubDate><guid>//localhost:1313/exemple/</guid><description>&lt;p>The following is a code sample using the &amp;ldquo;highlight&amp;rdquo; shortcode provided in Hugo. This is server side highlighting and requires Python and Pygments to be installed.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">num1&lt;/span>, &lt;span style="color:#a6e22e">num2&lt;/span>, &lt;span style="color:#a6e22e">sum&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">num1&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">prompt&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Enter first number&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">num2&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">prompt&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Enter second number&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">sum&lt;/span> &lt;span style="color:#f92672">=&lt;/span> parseInt(&lt;span style="color:#a6e22e">num1&lt;/span>) &lt;span style="color:#f92672">+&lt;/span> parseInt(&lt;span style="color:#a6e22e">num2&lt;/span>) &lt;span style="color:#75715e">// &amp;#34;+&amp;#34; means &amp;#34;add&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">alert&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Sum = &amp;#34;&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#a6e22e">sum&lt;/span>) &lt;span style="color:#75715e">// &amp;#34;+&amp;#34; means combine into a string
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Post with Cover Image</title><link>//localhost:1313/post-with-cover-image/</link><pubDate>Wed, 06 Jul 2022 21:08:01 +0200</pubDate><guid>//localhost:1313/post-with-cover-image/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus magna diam, interdum varius varius ac, vehicula et velit. Quisque ac nisi fringilla, fermentum sem in, dignissim lorem. Donec nibh velit, convallis at dolor non, laoreet accumsan lectus. Quisque eget efficitur nunc. Vivamus at lobortis felis. Nunc sed nunc non arcu laoreet ullamcorper sit amet eget ex. Quisque sit amet turpis at sem efficitur sodales sed id leo. Vivamus scelerisque cursus libero quis iaculis. Fusce eu eros porttitor, bibendum odio et, molestie nisl.&lt;/p></description></item><item><title>Code Sample</title><link>//localhost:1313/code-sample/</link><pubDate>Fri, 24 Jun 2022 18:28:32 +0200</pubDate><guid>//localhost:1313/code-sample/</guid><description>&lt;p>The following are two code samples using syntax highlighting.&lt;/p></description></item><item><title>Extended Shortcode</title><link>//localhost:1313/extended-shortcode/</link><pubDate>Sun, 01 May 2022 18:19:27 +0200</pubDate><guid>//localhost:1313/extended-shortcode/</guid><description>&lt;p>&lt;strong>Arberia Theme&lt;/strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean. To expand your possibility this is an example list of all provided shortcodes.&lt;/p>
+&lt;h2 id="alert">Alert&lt;/h2>
+&lt;p>Shortcode to inset varius alert on markdown post use this code:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#f92672">alert-info&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#34;[**&lt;/span>&lt;span style="color:#a6e22e">Click&lt;/span> &lt;span style="color:#a6e22e">here&lt;/span> &lt;span style="color:#a6e22e">to&lt;/span> &lt;span style="color:#a6e22e">get&lt;/span> &lt;span style="color:#a6e22e">an&lt;/span> &lt;span style="color:#a6e22e">example&lt;/span> &lt;span style="color:#a6e22e">of&lt;/span> &lt;span style="color:#a6e22e">info&lt;/span> &lt;span style="color:#a6e22e">alert&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">**](&lt;/span>&lt;span style="color:#a6e22e">https:&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">//&lt;/span>&lt;span style="color:#a6e22e">antedoro&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&lt;/span>&lt;span style="color:#a6e22e">it&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/)&lt;/span> &lt;span style="color:#a6e22e">followed&lt;/span> &lt;span style="color:#a6e22e">in&lt;/span> &lt;span style="color:#a6e22e">this&lt;/span> &lt;span style="color:#a6e22e">tutorial&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&amp;#34;&lt;/span>&amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#f92672">alert-success&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#34;[**&lt;/span>&lt;span style="color:#a6e22e">Click&lt;/span> &lt;span style="color:#a6e22e">here&lt;/span> &lt;span style="color:#a6e22e">to&lt;/span> &lt;span style="color:#a6e22e">get&lt;/span> &lt;span style="color:#a6e22e">an&lt;/span> &lt;span style="color:#a6e22e">example&lt;/span> &lt;span style="color:#a6e22e">of&lt;/span> &lt;span style="color:#a6e22e">info&lt;/span> &lt;span style="color:#a6e22e">alert&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">**](&lt;/span>&lt;span style="color:#a6e22e">https:&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">//&lt;/span>&lt;span style="color:#a6e22e">antedoro&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&lt;/span>&lt;span style="color:#a6e22e">it&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/)&lt;/span> &lt;span style="color:#a6e22e">followed&lt;/span> &lt;span style="color:#a6e22e">in&lt;/span> &lt;span style="color:#a6e22e">this&lt;/span> &lt;span style="color:#a6e22e">tutorial&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&amp;#34;&lt;/span>&amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#f92672">alert-warning&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#34;[**&lt;/span>&lt;span style="color:#a6e22e">Click&lt;/span> &lt;span style="color:#a6e22e">here&lt;/span> &lt;span style="color:#a6e22e">to&lt;/span> &lt;span style="color:#a6e22e">get&lt;/span> &lt;span style="color:#a6e22e">an&lt;/span> &lt;span style="color:#a6e22e">example&lt;/span> &lt;span style="color:#a6e22e">of&lt;/span> &lt;span style="color:#a6e22e">info&lt;/span> &lt;span style="color:#a6e22e">alert&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">**](&lt;/span>&lt;span style="color:#a6e22e">https:&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">//&lt;/span>&lt;span style="color:#a6e22e">antedoro&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&lt;/span>&lt;span style="color:#a6e22e">it&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/)&lt;/span> &lt;span style="color:#a6e22e">followed&lt;/span> &lt;span style="color:#a6e22e">in&lt;/span> &lt;span style="color:#a6e22e">this&lt;/span> &lt;span style="color:#a6e22e">tutorial&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&amp;#34;&lt;/span>&amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#f92672">alert-danger&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#34;[**&lt;/span>&lt;span style="color:#a6e22e">Click&lt;/span> &lt;span style="color:#a6e22e">here&lt;/span> &lt;span style="color:#a6e22e">to&lt;/span> &lt;span style="color:#a6e22e">get&lt;/span> &lt;span style="color:#a6e22e">an&lt;/span> &lt;span style="color:#a6e22e">example&lt;/span> &lt;span style="color:#a6e22e">of&lt;/span> &lt;span style="color:#a6e22e">info&lt;/span> &lt;span style="color:#a6e22e">alert&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">**](&lt;/span>&lt;span style="color:#a6e22e">https:&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">//&lt;/span>&lt;span style="color:#a6e22e">antedoro&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&lt;/span>&lt;span style="color:#a6e22e">it&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/)&lt;/span> &lt;span style="color:#a6e22e">followed&lt;/span> &lt;span style="color:#a6e22e">in&lt;/span> &lt;span style="color:#a6e22e">this&lt;/span> &lt;span style="color:#a6e22e">tutorial&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&amp;#34;&lt;/span>&amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#f92672">alert-dark&lt;/span> &lt;span style="color:#960050;background-color:#1e0010">&amp;#34;[**&lt;/span>&lt;span style="color:#a6e22e">Click&lt;/span> &lt;span style="color:#a6e22e">here&lt;/span> &lt;span style="color:#a6e22e">to&lt;/span> &lt;span style="color:#a6e22e">get&lt;/span> &lt;span style="color:#a6e22e">an&lt;/span> &lt;span style="color:#a6e22e">example&lt;/span> &lt;span style="color:#a6e22e">of&lt;/span> &lt;span style="color:#a6e22e">info&lt;/span> &lt;span style="color:#a6e22e">alert&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">**](&lt;/span>&lt;span style="color:#a6e22e">https:&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">//&lt;/span>&lt;span style="color:#a6e22e">antedoro&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&lt;/span>&lt;span style="color:#a6e22e">it&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">/)&lt;/span> &lt;span style="color:#a6e22e">followed&lt;/span> &lt;span style="color:#a6e22e">in&lt;/span> &lt;span style="color:#a6e22e">this&lt;/span> &lt;span style="color:#a6e22e">tutorial&lt;/span>&lt;span style="color:#960050;background-color:#1e0010">.&amp;#34;&lt;/span>&amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+
+&lt;div class="alert alert-info alert-link my-2" role="alert">
+ &lt;p class="mb-0">&lt;a href="https://antedoro.it/">&lt;strong>Click here to get an example of info alert&lt;/strong>&lt;/a> followed in this tutorial.&lt;/p> 
+&lt;/div>
+&lt;div class="alert alert-secondary alert-link my-2" role="alert">
+ &lt;p class="mb-0">&lt;a href="https://antedoro.it/">&lt;strong>Click here to get an example of success alert&lt;/strong>&lt;/a> followed in this tutorial.&lt;/p></description></item><item><title>More on Markdown</title><link>//localhost:1313/more-on-markdown/</link><pubDate>Tue, 26 Apr 2022 18:26:24 +0200</pubDate><guid>//localhost:1313/more-on-markdown/</guid><description>&lt;p>You can write regular &lt;a href="http://markdowntutorial.com/">markdown&lt;/a> here and &lt;a href="https://gohugo.io">Hugo&lt;/a> will automatically convert it to a nice webpage. I strongly encourage you to &lt;a href="http://markdowntutorial.com/">take 5 minutes to learn how to write in markdown&lt;/a> - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p>
+&lt;p>&lt;strong>Here is some bold text&lt;/strong>&lt;/p>
+&lt;h2 id="here-is-a-secondary-heading">Here is a secondary heading&lt;/h2>
+&lt;p>Here&amp;rsquo;s a useless table:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Number&lt;/th>
+ &lt;th style="text-align: left">Next number&lt;/th>
+ &lt;th style="text-align: left">Previous number&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Five&lt;/td>
+ &lt;td style="text-align: left">Six&lt;/td>
+ &lt;td style="text-align: left">Four&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Ten&lt;/td>
+ &lt;td style="text-align: left">Eleven&lt;/td>
+ &lt;td style="text-align: left">Nine&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Seven&lt;/td>
+ &lt;td style="text-align: left">Eight&lt;/td>
+ &lt;td style="text-align: left">Six&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Two&lt;/td>
+ &lt;td style="text-align: left">Three&lt;/td>
+ &lt;td style="text-align: left">One&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>How about a yummy crepe?&lt;/p></description></item></channel></rss>

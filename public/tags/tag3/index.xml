@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tag3 on Go Bytes</title><link>//localhost:1313/tags/tag3/</link><description>Recent content in Tag3 on Go Bytes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 07 Jul 2022 22:08:01 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/tag3/index.xml" rel="self" type="application/rss+xml"/><item><title>Post without sidebar</title><link>//localhost:1313/post-without-sidebar/</link><pubDate>Tue, 26 Apr 2022 19:05:23 +0000</pubDate><guid>//localhost:1313/post-without-sidebar/</guid><description>&lt;h2 id="what-is-lorem-ipsum">What is Lorem Ipsum?&lt;/h2>
+&lt;p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Why do we use it?&lt;/p></description></item><item><title>Exemple</title><link>//localhost:1313/exemple/</link><pubDate>Thu, 07 Jul 2022 22:08:01 +0200</pubDate><guid>//localhost:1313/exemple/</guid><description>&lt;p>The following is a code sample using the &amp;ldquo;highlight&amp;rdquo; shortcode provided in Hugo. This is server side highlighting and requires Python and Pygments to be installed.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">var&lt;/span> &lt;span style="color:#a6e22e">num1&lt;/span>, &lt;span style="color:#a6e22e">num2&lt;/span>, &lt;span style="color:#a6e22e">sum&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">num1&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">prompt&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Enter first number&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">num2&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#a6e22e">prompt&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Enter second number&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">sum&lt;/span> &lt;span style="color:#f92672">=&lt;/span> parseInt(&lt;span style="color:#a6e22e">num1&lt;/span>) &lt;span style="color:#f92672">+&lt;/span> parseInt(&lt;span style="color:#a6e22e">num2&lt;/span>) &lt;span style="color:#75715e">// &amp;#34;+&amp;#34; means &amp;#34;add&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#a6e22e">alert&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Sum = &amp;#34;&lt;/span> &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#a6e22e">sum&lt;/span>) &lt;span style="color:#75715e">// &amp;#34;+&amp;#34; means combine into a string
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Post with Cover Image</title><link>//localhost:1313/post-with-cover-image/</link><pubDate>Wed, 06 Jul 2022 21:08:01 +0200</pubDate><guid>//localhost:1313/post-with-cover-image/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus magna diam, interdum varius varius ac, vehicula et velit. Quisque ac nisi fringilla, fermentum sem in, dignissim lorem. Donec nibh velit, convallis at dolor non, laoreet accumsan lectus. Quisque eget efficitur nunc. Vivamus at lobortis felis. Nunc sed nunc non arcu laoreet ullamcorper sit amet eget ex. Quisque sit amet turpis at sem efficitur sodales sed id leo. Vivamus scelerisque cursus libero quis iaculis. Fusce eu eros porttitor, bibendum odio et, molestie nisl.&lt;/p></description></item><item><title>Code Sample</title><link>//localhost:1313/code-sample/</link><pubDate>Fri, 24 Jun 2022 18:28:32 +0200</pubDate><guid>//localhost:1313/code-sample/</guid><description>&lt;p>The following are two code samples using syntax highlighting.&lt;/p></description></item><item><title>Landingpage</title><link>//localhost:1313/landingpage/</link><pubDate>Fri, 20 May 2022 21:26:12 +0200</pubDate><guid>//localhost:1313/landingpage/</guid><description>&lt;h2 id="la-divina-commedia-incipit-by-dante-alighieri">La Divina Commedia incipit by Dante Alighieri&lt;/h2>
+&lt;p>Nel mezzo del cammin di nostra vita
+mi ritrovai per una selva oscura,
+ché la diritta via era smarrita.&lt;/p>
+&lt;p>Ahi quanto a dir qual era è cosa dura
+esta selva selvaggia e aspra e forte
+che nel pensier rinova la paura!&lt;/p>
+&lt;p>Tant’è amara che poco è più morte;
+ma per trattar del ben ch’i’ vi trovai,
+dirò de l’altre cose ch’i’ v’ ho scorte.&lt;/p></description></item><item><title>More on Markdown</title><link>//localhost:1313/more-on-markdown/</link><pubDate>Tue, 26 Apr 2022 18:26:24 +0200</pubDate><guid>//localhost:1313/more-on-markdown/</guid><description>&lt;p>You can write regular &lt;a href="http://markdowntutorial.com/">markdown&lt;/a> here and &lt;a href="https://gohugo.io">Hugo&lt;/a> will automatically convert it to a nice webpage. I strongly encourage you to &lt;a href="http://markdowntutorial.com/">take 5 minutes to learn how to write in markdown&lt;/a> - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.&lt;/p>
+&lt;p>&lt;strong>Here is some bold text&lt;/strong>&lt;/p>
+&lt;h2 id="here-is-a-secondary-heading">Here is a secondary heading&lt;/h2>
+&lt;p>Here&amp;rsquo;s a useless table:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Number&lt;/th>
+ &lt;th style="text-align: left">Next number&lt;/th>
+ &lt;th style="text-align: left">Previous number&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Five&lt;/td>
+ &lt;td style="text-align: left">Six&lt;/td>
+ &lt;td style="text-align: left">Four&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Ten&lt;/td>
+ &lt;td style="text-align: left">Eleven&lt;/td>
+ &lt;td style="text-align: left">Nine&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Seven&lt;/td>
+ &lt;td style="text-align: left">Eight&lt;/td>
+ &lt;td style="text-align: left">Six&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Two&lt;/td>
+ &lt;td style="text-align: left">Three&lt;/td>
+ &lt;td style="text-align: left">One&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>How about a yummy crepe?&lt;/p></description></item></channel></rss>
