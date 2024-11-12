@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Django on Go Bytes</title><link>//localhost:1313/tags/django/</link><description>Recent content in Django on Go Bytes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 16:24:00 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/django/index.xml" rel="self" type="application/rss+xml"/><item><title>Building a Django User Management System</title><link>//localhost:1313/portfolio/building-django-user-management-system/</link><pubDate>Sun, 15 May 2022 16:24:00 +0200</pubDate><guid>//localhost:1313/portfolio/building-django-user-management-system/</guid><description>&lt;p>If you’re building your own Django applications, you might decide to extend them with user accounts. In this video course, you’ll learn how to work with Django user management and add it to your program.&lt;/p>
-&lt;p>By the end of this video course, you’ll be able to:&lt;/p>
-&lt;ul>
-&lt;li>Create an application where users can register, log in, and reset and change passwords on their own&lt;/li>
-&lt;li>Edit the default Django templates responsible for user management&lt;/li>
-&lt;li>Send password reset emails to actual email addresses&lt;/li>
-&lt;li>Authenticate using an external service&lt;/li>
-&lt;/ul>
-&lt;p>You may find it useful to complete Get Started With Django: Build a Portfolio App before beginning this course. However, you can also apply Django user management to any Django apps that you’ve created.&lt;/p></description></item></channel></rss>

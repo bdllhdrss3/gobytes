@@ -9,6 +9,7 @@ languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 enableInlineShortcodes = true
+publishDir = "docs"
 
 
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.

@@ -97,3 +97,6 @@ showAuthor = false
   # https://web.dev/add-manifest/
   [pwa.manifest]
   description = "Learn Go in Bits"
+
+
+googleAnalytics = "G-LEX1MZ9RCD" # example : UA-123-45
